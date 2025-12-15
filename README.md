@@ -2,6 +2,8 @@
 
 SkillStack is a full-stack web application that helps users track their learning progress across multiple skills, platforms, and resource types. It provides progress tracking, analytics, and rule-based insights to help users stay consistent with their learning goals.
 
+Project Documentation - https://drive.google.com/file/d/1U9DIzaFczkDciVoY5nOYp3duoGfdu0D8/view?usp=sharing
+
 ---
 
 ## 🔗 Live Links
@@ -48,6 +50,7 @@ SkillStack is a full-stack web application that helps users track their learning
 - venv\Scripts\activate           # Windows
 - pip install -r requirements.txt
 - uvicorn app.main:app --reload
+
 
 
 
